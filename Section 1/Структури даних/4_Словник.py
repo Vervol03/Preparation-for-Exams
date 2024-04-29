@@ -87,16 +87,9 @@ class HashTable:
 
 
 if __name__ == "__main__": # Приклад використання
-
     M = HashTable() 
-
-    for i in range(65, 91):
-        M.put(i, chr(i)) 
-
-    for i in range(65, 91):
-        print(M.get(i))
-
+    for i in range(65, 91): M.put(i, chr(i)) 
+    for i in range(65, 91): print(M.get(i))
 
     M.put(65, "65") 
-
     print(M)
