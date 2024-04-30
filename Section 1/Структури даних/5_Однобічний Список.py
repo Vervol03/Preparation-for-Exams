@@ -223,6 +223,7 @@ class LinkedList:
                 if data == current.data:
                     return True
                 current = current.next
+            return False
         else:
             return False
 
@@ -245,7 +246,6 @@ class LinkedList:
             linked.append(current_top.data)
             current_top = current_top.next
         return str(linked)
-
     #________________________________________________________________________________#
 
 
