@@ -42,7 +42,6 @@ class Node:
 
 
 class LinkedList:
-
     def __init__(self):
         self.head = None
 
@@ -65,14 +64,16 @@ class LinkedList:
     def insert_after(self, prev, new_data):
         if self.head:
             current = self.head
-            while current.next:
-                current = current.next
+            while current:
                 if prev == current.data:
-                    tail = current.next
+                    temp = current.next
                     current.next = Node(new_data)
-                    current.next.next = tail
+                    current.next.next = temp
                     return
-        print(f"Значення {prev} немає у списку!")
+                current = current.next
+            print(f"Значення {prev} немає у списку!")
+        else:
+            print(f"Cписок порожній!")
 
 
     def insert_at(self, index, new_data):
@@ -93,6 +94,7 @@ class LinkedList:
                 print(f"Индекс {index} великий для списку!")
             else:
                 self.head = Node(new_data)
+
 
     ###################################_DEL_METODS_###################################
 
@@ -146,7 +148,6 @@ class LinkedList:
         else:
             print(f"Неможна видалити елемент, Cписок порожній!")
 
-
     def remove_repeat(self):
         if self.head:
             current = self.head
@@ -159,6 +160,7 @@ class LinkedList:
                     current.next = current.next.next
         else:
             print("Cписок порожній!")
+
 
     ###################################_GET_METODS_###################################
 
@@ -188,6 +190,7 @@ class LinkedList:
         else:
             print(f"Cписок порожній!")
 
+
     ###################################_SET_METODS_###################################
 
     def set_at(self, index, new_data):
@@ -214,6 +217,7 @@ class LinkedList:
         else:
             print(f"Cписок порожній!")
     
+
     ##################################################################################
 
     def contains(self, data):
@@ -255,7 +259,6 @@ if __name__ == "__main__": # Приклад використання
     Linked = LinkedList()
 
     # Додавання елементів у список:
-
     Linked.prepend(1)   # Додавання на 
     Linked.prepend(0)   # початок списку
     Linked.append(2)    # Додавання на 
@@ -268,7 +271,6 @@ if __name__ == "__main__": # Приклад використання
     print(Linked)
 
     # Видалення елементів зі списку:
-
     Linked.remove_first()   # Видалення першого елементу
     Linked.remove_last()    # Видалення останнього елементу
     Linked.remove_by_value(1)   # Видалення елемента за значенням
@@ -278,7 +280,6 @@ if __name__ == "__main__": # Приклад використання
     print(Linked)
 
     # Отримання елемента зі списку:
-
     print(Linked.get_first())   # Отримання першого елементу
     print(Linked.get_last())    # Отримання останнього елементу
     print(Linked.get_at(5))     # Отримання елементу за індексом
@@ -286,7 +287,6 @@ if __name__ == "__main__": # Приклад використання
     print(Linked)
 
     # Зміна значення елемента:
-
     Linked.set_at(0, 0)     # Зміна значення елементу 
     Linked.set_at(1, 1)     # за індексом
     Linked.set_by_value(5, 2)   # Зміна значення елементу
