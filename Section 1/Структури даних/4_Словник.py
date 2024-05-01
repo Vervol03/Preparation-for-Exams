@@ -57,21 +57,18 @@ class HashTable:
             self.slots[hash_key] = Node(key, value)
 
     def get(self, key):
-        """Метод для отримання значення за ключем з хеш-таблиці."""
+        # Метод для отримання значення за ключем з хеш-таблиці
         hash_key = HashTable.hash(key)
         slot = self.slots[hash_key]  # Отримання слоту за обчисленим індексом
-        
         while slot:
             if slot.key == key:  # Якщо ключ співпадає, повертаємо відповідне значення
                 return slot.value
             slot = slot.next # Перехід до наступного вузла у ланцюжку
-        
         return None  # Якщо ключ не знайдено, повертаємо None
 
     def __repr__(self):
-        """Метод для представлення хеш-таблиці у вигляді рядка."""
+        # Метод для представлення хеш-таблиці у вигляді рядка
         elements = []
-
         for node in self.slots:
             if node:
                 el = []
@@ -81,9 +78,7 @@ class HashTable:
                 elements.append(el)                     # Додаємо список у список елементів
             else:
                 elements.append(node)  # Додаємо None у випадку порожнього слоту
-        
         return str(elements)  # Повертаємо рядок із списком елементів
-
 
 
 if __name__ == "__main__": # Приклад використання
