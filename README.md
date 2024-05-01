@@ -10,6 +10,7 @@
        + [4_Деревом](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Сортування/4_Деревом.py)
        + [5_Швидке сортування](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Сортування/5_Швидке%20сортування.py)
        + [6_Сортування Шелла](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Сортування/6_Сортування%20Шелла.py)
+       + [Ілюстрації](https://github.com/Vervol03/Preparation-for-Exams/tree/main/Section%201/Сортування/Ілюстрації)
    + [Структури даних](https://github.com/Vervol03/Preparation-for-Exams/tree/main/Section%201/Структури%20даних)
        + [1_Стек](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Структури%20даних/1_Стек.py)
        + [2_Черга](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Структури%20даних/2_Черга.py)
