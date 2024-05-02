@@ -25,9 +25,8 @@
       1. [Лінійний пошук](https://github.com/Vervol03/Preparation-for-Exams/tree/main/Section%201/Методи%20пошуку/1_Лінійний%20пошук.py)
       2. [Бінарний пошук](https://github.com/Vervol03/Preparation-for-Exams/tree/main/Section%201/Методи%20пошуку/2_Бінарний%20пошук.py)
       3. [Пошук за ключем (Словник)](https://github.com/Vervol03/Preparation-for-Exams/tree/main/Section%201/Методи%20пошуку/3_Пошук%20за%20ключем%20(Словник).py)
-      4. [Пошук в глибину (DFS)](https://github.com/Vervol03/Preparation-for-Exams/tree/main/Section%201/Методи%20пошуку/4_Пошук%20в%20глибину%20(DFS).py)
-      5. [Пошук в ширину (BFS)](https://github.com/Vervol03/Preparation-for-Exams/tree/main/Section%201/Методи%20пошуку/5_Пошук%20в%20ширину%20(BFS).py)
-      6. [Пошук з відсіканням (Pruning)](https://github.com/Vervol03/Preparation-for-Exams/tree/main/Section%201/Методи%20пошуку/6_Пошук%20з%20відсіканням%20(Pruning).py)
+      4. [Пошук в глибину (DFS) та в ширину (BFS)](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Методи%20пошуку/4_Пошук%20в%20глибину%20(DFS)%20та%20в%20ширину%20(BFS).py)
+      5. [Пошук з відсіканням (Pruning)](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Методи%20пошуку/5_Пошук%20з%20відсіканням%20(Pruning).py)
     + [Граф](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Граф.py), [Фото](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Граф.jpg)
 2. АРХІТЕКТУРА ОБЧИСЛЮВАЛЬНИХ СИСТЕМ
 3. БАЗИ ТА СХОВИЩА ДАНИХ
