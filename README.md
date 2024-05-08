@@ -30,6 +30,7 @@
     + [Граф](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Граф.py), [Фото](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Граф.jpg)
 2. [АРХІТЕКТУРА ОБЧИСЛЮВАЛЬНИХ СИСТЕМ](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202)
    + [Архітектура Обчислювальних Систем](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202/Архітектура%20Обчислювальних%20Систем.docx)
+   + [Числа з плаваючою комою](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202/Числа%20з%20плаваючою%20комою.png)
 3. БАЗИ ТА СХОВИЩА ДАНИХ
 4. ІНЖЕНЕРІЯ СИСТЕМ І ΠΡΟΓΡΑМНОГО ЗАБЕЗПЕЧЕННЯ
 5. КІБЕРБЕЗПЕКА ТА ЗАХИСТ ІНФОРМАЦІЇ
