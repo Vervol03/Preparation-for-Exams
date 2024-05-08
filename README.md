@@ -31,6 +31,7 @@
 2. [АРХІТЕКТУРА ОБЧИСЛЮВАЛЬНИХ СИСТЕМ](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202)
    + [Архітектура Обчислювальних Систем](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202/Архітектура%20Обчислювальних%20Систем.docx)
    + [Числа з плаваючою комою](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202/Числа%20з%20плаваючою%20комою.png)
+   + [Бітові операції](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202/Бітові%20Операції.py), [Відео](https://www.youtube.com/watch?v=qewavPO6jcA)
 3. БАЗИ ТА СХОВИЩА ДАНИХ
 4. ІНЖЕНЕРІЯ СИСТЕМ І ΠΡΟΓΡΑМНОГО ЗАБЕЗПЕЧЕННЯ
 5. КІБЕРБЕЗПЕКА ТА ЗАХИСТ ІНФОРМАЦІЇ
