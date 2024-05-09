@@ -1,7 +1,7 @@
 # Данний репозиторій має 10 розділів:
 1. [АЛГОРИТМИ ТА ОБЧИСЛЮВАЛЬНА СКЛАДНІСТЬ](https://github.com/Vervol03/Preparation-for-Exams/tree/main/Section%201)
     + [Алгоритми і структури даних.pdf](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Алгоритми%20і%20структури%20даних.pdf)
-    + [АЛГОРИТМИ ТА ОБЧИСЛЮВАЛЬНА СКЛАДНІСТЬ.docx](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/АЛГОРИТМИ%20ТА%20ОБЧИСЛЮВАЛЬНА%20СКЛАДНІСТЬ.docx)
+    + [АЛГОРИТМИ ТА ОБЧИСЛЮВАЛЬНА СКЛАДНІСТЬ.docx](https://github.com/Vervol03/Preparation-for-Exams/raw/main/Section%201/%D0%90%D0%9B%D0%93%D0%9E%D0%A0%D0%98%D0%A2%D0%9C%D0%98%20%D0%A2%D0%90%20%D0%9E%D0%91%D0%A7%D0%98%D0%A1%D0%9B%D0%AE%D0%92%D0%90%D0%9B%D0%AC%D0%9D%D0%90%20%D0%A1%D0%9A%D0%9B%D0%90%D0%94%D0%9D%D0%86%D0%A1%D0%A2%D0%AC.docx)
     + [Основи Алгоритмів.py](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Основи%20Алгоритмів.py)
     + [Сортування](https://github.com/Vervol03/Preparation-for-Exams/tree/main/Section%201/Сортування), [Таблиця складності](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Сортування/Ілюстрації/Таблиця%20складності%20сортувань.png)
        1. [Вибором](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Сортування/1_Вибором.py), [Анімація](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Сортування/Ілюстрації/Вибором%20(Selection%20Sort).gif)
@@ -29,7 +29,7 @@
       5. [Пошук з відсіканням (Pruning)](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Методи%20пошуку/5_Пошук%20з%20відсіканням%20(Pruning).py)
     + [Граф](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Граф.py), [Фото](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Граф.jpg)
 2. [АРХІТЕКТУРА ОБЧИСЛЮВАЛЬНИХ СИСТЕМ](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202)
-   + [Архітектура Обчислювальних Систем](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202/Архітектура%20Обчислювальних%20Систем.docx)
+   + [Архітектура Обчислювальних Систем](https://github.com/Vervol03/Preparation-for-Exams/raw/main/Section%202/%D0%90%D0%A0%D0%A5%D0%86%D0%A2%D0%95%D0%9A%D0%A2%D0%A3%D0%A0%D0%90%20%D0%9E%D0%91%D0%A7%D0%98%D0%A1%D0%9B%D0%AE%D0%92%D0%90%D0%9B%D0%AC%D0%9D%D0%98%D0%A5%20%D0%A1%D0%98%D0%A1%D0%A2%D0%95%D0%9C.docx)
    + [Числа з плаваючою комою](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202/Числа%20з%20плаваючою%20комою.png), [Відео](https://www.youtube.com/watch?v=U0U8Ddx4TgE&t=873s)
    + [Бітові операції](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202/Бітові%20Операції.py), [Відео](https://www.youtube.com/watch?v=qewavPO6jcA)
 3. [БАЗИ ТА СХОВИЩА ДАНИХ](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%203), [Файл](https://github.com/Vervol03/Preparation-for-Exams/raw/main/Section%203/%D0%91%D0%90%D0%97%D0%98%20%D0%A2%D0%90%20%D0%A1%D0%A5%D0%9E%D0%92%D0%98%D0%A9%D0%90%20%D0%94%D0%90%D0%9D%D0%98%D0%A5.docx)
