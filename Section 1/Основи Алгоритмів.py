@@ -75,7 +75,7 @@ def find_max(arr):
 
 ###########################################################
 
-# Лінійно-логарифмічна — O(n log n) - Швидке сортування
+# Лінійно-логарифмічна — O(n * log n) - Швидке сортування
 def quick_sort(arr):
     if len(arr) <= 1: return arr
 
@@ -140,7 +140,7 @@ def generate_permutations(arr):
     backtrack(0)
     return permutations
 
-# print(len(generate_permutations([1, 2, 3, 4, 5])))
+print(len(generate_permutations([i for i in range(100)])))
 
 
 

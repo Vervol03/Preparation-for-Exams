@@ -17,14 +17,14 @@ def sort_by_choice(arr):
     i = 0
     while i < n-1:
         j = i
-        min = i
+        index = i
         while j < n:
-            if arr[j] < arr[min]: 
-                min = j
+            if arr[j] < arr[index]: 
+                index = j
             j += 1
         temp = arr[i]
-        arr[i] = arr[min]
-        arr[min] = temp
+        arr[i] = arr[index]
+        arr[index] = temp
         i += 1
 
 if __name__ == "__main__":
