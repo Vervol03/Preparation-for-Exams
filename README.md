@@ -30,7 +30,7 @@
     + [Граф](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Граф.py), [Фото](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%201/Граф.jpg), [Відео](https://www.youtube.com/watch?app=desktop&v=VehB3eglQMQ)
 2. [АРХІТЕКТУРА ОБЧИСЛЮВАЛЬНИХ СИСТЕМ](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202)
    + [Архітектура Обчислювальних Систем](https://github.com/Vervol03/Preparation-for-Exams/raw/main/Section%202/%D0%90%D0%A0%D0%A5%D0%86%D0%A2%D0%95%D0%9A%D0%A2%D0%A3%D0%A0%D0%90%20%D0%9E%D0%91%D0%A7%D0%98%D0%A1%D0%9B%D0%AE%D0%92%D0%90%D0%9B%D0%AC%D0%9D%D0%98%D0%A5%20%D0%A1%D0%98%D0%A1%D0%A2%D0%95%D0%9C.docx)
-   + [Числа з плаваючою комою](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202/Числа%20з%20плаваючою%20комою.png), [Відео](https://www.youtube.com/watch?v=U0U8Ddx4TgE&t=873s), [Відео]()
+   + [Числа з плаваючою комою](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202/Числа%20з%20плаваючою%20комою.png), [Відео](https://www.youtube.com/watch?v=U0U8Ddx4TgE&t=873s)
    + [Бітові операції](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202/Бітові%20Операції.py), [Відео](https://www.youtube.com/watch?v=qewavPO6jcA)
 3. [БАЗИ ТА СХОВИЩА ДАНИХ](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%203), [Файл](https://github.com/Vervol03/Preparation-for-Exams/raw/main/Section%203/%D0%91%D0%90%D0%97%D0%98%20%D0%A2%D0%90%20%D0%A1%D0%A5%D0%9E%D0%92%D0%98%D0%A9%D0%90%20%D0%94%D0%90%D0%9D%D0%98%D0%A5.docx)
 4. ІНЖЕНЕРІЯ СИСТЕМ І ΠΡΟΓΡΑМНОГО ЗАБЕЗПЕЧЕННЯ
