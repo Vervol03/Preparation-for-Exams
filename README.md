@@ -33,10 +33,10 @@
    + [Числа з плаваючою комою](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202/Числа%20з%20плаваючою%20комою.png), [Відео](https://www.youtube.com/watch?v=U0U8Ddx4TgE&t=873s)
    + [Бітові операції](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%202/Бітові%20Операції.py), [Відео](https://www.youtube.com/watch?v=qewavPO6jcA)
 3. [БАЗИ ТА СХОВИЩА ДАНИХ](https://github.com/Vervol03/Preparation-for-Exams/blob/main/Section%203), [Файл](https://github.com/Vervol03/Preparation-for-Exams/raw/main/Section%203/%D0%91%D0%90%D0%97%D0%98%20%D0%A2%D0%90%20%D0%A1%D0%A5%D0%9E%D0%92%D0%98%D0%A9%D0%90%20%D0%94%D0%90%D0%9D%D0%98%D0%A5.docx)
-4. ІНЖЕНЕРІЯ СИСТЕМ І ΠΡΟΓΡΑМНОГО ЗАБЕЗПЕЧЕННЯ
-5. КІБЕРБЕЗПЕКА ТА ЗАХИСТ ІНФОРМАЦІЇ
+4. ІНЖЕНЕРІЯ СИСТЕМ І ΠΡΟΓΡΑМНОГО ЗАБЕЗПЕЧЕННЯ, [Курс](https://youtube.com/playlist?list=PLlb7e2G7aSpQwYFLXBG22XnKYXFzQ7-1K&si=wmk7ImJzDmpF-Hzs)
+5. КІБЕРБЕЗПЕКА ТА ЗАХИСТ ІНФОРМАЦІЇ 
 6. MATEMAТИКА В ІT
-7. МЕРЕЖІ ТА ОБМІН ДАНИМИ
-8. ОПЕРАЦІЙНІ СИСТЕМИ
-9.  ОСНОВИ МОВ ПРОГРАМУВАННЯ
-10. ШТУЧНИЙ ІНТЕЛЕКТ
+7. МЕРЕЖІ ТА ОБМІН ДАНИМИ, [Курс](https://youtube.com/playlist?list=PLtPJ9lKvJ4oiNMvYbOzCmWy6cRzYAh9B1&si=uyEwhsOhRTHrGHDF)
+8. ОПЕРАЦІЙНІ СИСТЕМИ, [Курс](https://youtube.com/playlist?list=PLlb7e2G7aSpT4SMpYl6uVYi13k0k9CBiq&si=5mDs_g12fVxI5VFD) 
+9. ОСНОВИ МОВ ПРОГРАМУВАННЯ, [Section 1](https://github.com/Vervol03/Preparation-for-Exams/tree/main/Section%201)
+10. ШТУЧНИЙ ІНТЕЛЕКТ, [Курс](https://www.youtube.com/watch?v=nV7cI5zgOpk&list=PLA0M1Bcd0w8yv0XGiF1wjerjSZVSrYbjh)

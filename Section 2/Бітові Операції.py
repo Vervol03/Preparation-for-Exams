@@ -1,6 +1,6 @@
 from random import randint
 
-n = 20; d1 = []; d2 = []
+n = 1_000_000; d1 = []; d2 = []
 
 
 # Звичайний спосіб 
